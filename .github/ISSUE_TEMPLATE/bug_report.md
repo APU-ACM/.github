@@ -2,7 +2,7 @@
 name: Bug report
 about: Use this template to file bug reports and other code-related issues
 title: ''
-labels: ''
+labels: bug report
 assignees: ''
 
 ---
